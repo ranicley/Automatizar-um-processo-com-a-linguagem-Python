@@ -1,6 +1,6 @@
 import yfinance
 
-yicker = input ('Digite o código da ação: ')
+ticker = input ('Digite o código da ação: ')
 dados = yfinance.Ticker(yfinance.Ticker)
 
 

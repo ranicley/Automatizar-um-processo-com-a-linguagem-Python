@@ -24,6 +24,7 @@ print(maxima)
 print(minima)
 print(atual)
 
+Enviando e-mail de forma automática
 
 import pyautogui
 import pyperclip

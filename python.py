@@ -1,7 +1,7 @@
 import yfinance
 
 ticker = input ('Digite o código da ação: ')
-dados = yfinance.Ticker(yfinance.Ticker)
+dados = yfinance.Ticker(Ticker)
 
 
 dados.history()
